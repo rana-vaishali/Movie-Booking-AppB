@@ -11,6 +11,8 @@ import GridListTile from '@material-ui/core/GridListTile';
 import GridListTileBar from '@material-ui/core/GridListTileBar';
 import StarBorderIcon from '@material-ui/icons/StarBorder';       
 import Button from '@material-ui/core/Button';
+
+
 class Details extends React.Component {
     constructor() {
         super();
